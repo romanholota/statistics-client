@@ -1,0 +1,8 @@
+{
+    "/rpo": {
+        "target": "https://api.statistics.sk",
+        "secure": false,
+        "changeOrigin": true,
+        "logLevel": "debug"
+    }
+}
